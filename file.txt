@@ -4,4 +4,3 @@ git status
 git add .
 git commit -m <message>
 git push origin main
-go to github and merge the pull request
