@@ -1,3 +1,4 @@
+
 public class Division {
     public static void main(String[] args) {
         int i, number=1000;
@@ -17,3 +18,4 @@ public class Division {
 
     }
 }
+
